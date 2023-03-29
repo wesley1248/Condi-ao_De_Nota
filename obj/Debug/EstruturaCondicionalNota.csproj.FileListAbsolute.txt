@@ -1,0 +1,7 @@
+C:\Users\wesle\Documents\estudo\CasaDoUsuario\EstruturaCondicionalNota\EstruturaCondicionalNota\bin\Debug\EstruturaCondicionalNota.exe.config
+C:\Users\wesle\Documents\estudo\CasaDoUsuario\EstruturaCondicionalNota\EstruturaCondicionalNota\bin\Debug\EstruturaCondicionalNota.exe
+C:\Users\wesle\Documents\estudo\CasaDoUsuario\EstruturaCondicionalNota\EstruturaCondicionalNota\bin\Debug\EstruturaCondicionalNota.pdb
+C:\Users\wesle\Documents\estudo\CasaDoUsuario\EstruturaCondicionalNota\EstruturaCondicionalNota\obj\Debug\EstruturaCondicionalNota.csproj.AssemblyReference.cache
+C:\Users\wesle\Documents\estudo\CasaDoUsuario\EstruturaCondicionalNota\EstruturaCondicionalNota\obj\Debug\EstruturaCondicionalNota.csproj.CoreCompileInputs.cache
+C:\Users\wesle\Documents\estudo\CasaDoUsuario\EstruturaCondicionalNota\EstruturaCondicionalNota\obj\Debug\EstruturaCondicionalNota.exe
+C:\Users\wesle\Documents\estudo\CasaDoUsuario\EstruturaCondicionalNota\EstruturaCondicionalNota\obj\Debug\EstruturaCondicionalNota.pdb
