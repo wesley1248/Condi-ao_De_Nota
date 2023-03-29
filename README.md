@@ -2,7 +2,7 @@
 EstruturaCondicionalNota
 Este é um programa em C# que calcula a nota final de um aluno com base nas notas do primeiro e segundo semestres.
 
-Como usar
+Como usar,
 Execute o programa.
 Quando solicitado, insira a nota do primeiro semestre.
 Quando solicitado, insira a nota do segundo semestre.
